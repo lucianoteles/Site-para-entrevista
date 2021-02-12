@@ -31,6 +31,8 @@
 
 <!-- Custom styles for this template -->
 <link href="carousel.css" rel="stylesheet">
+
+    <?php wp_head(); ?>
 </head>
 
 <body <?php body_class(); ?>>
